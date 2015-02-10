@@ -3,7 +3,7 @@ xDForce API Documentation
 
 [![Build Status](https://travis-ci.org/db-s/xdforce-api-doc.svg?branch=master)](https://travis-ci.org/db-s/xdforce-api-doc)
 
-Slate helps you create beautiful API documentation. Think of it as an intelligent, responsive documentation template for your API.
+This is an initial documentation of xDForce API.
 
 <img src="http://db-s.github.io/xdforce-api-doc/images/logo.png" alt="xDForce">
 
