@@ -5,7 +5,7 @@ xDForce API Documentation
 
 This is an initial documentation of xDForce API.
 
-<img src="http://db-s.github.io/xdforce-api-doc/images/logo.png" alt="xDForce">
+<img src="http://www.xdforce.com/wp-content/themes/blankslate/img/logo.png" alt="xDForce">
 
 Special Thanks
 --------------------
